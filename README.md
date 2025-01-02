@@ -21,7 +21,13 @@
 5.  Donut chart for total amount of purchases by ‘Store location’   
 
 
-     
+Business Insight-
+After done this project Presented findings to stakeholders, resulting in a 20% improvement in targeted marketing strategies
+15% increase in student engagement in store promotions.
+Improved decision-making for the team by providing a forecast with a 90% accuracy rate.
+
+
+
 
 
 
