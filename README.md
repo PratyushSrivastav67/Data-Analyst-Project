@@ -1,33 +1,27 @@
-Project 1 HOME LOAN PROJECT OBJECTIVE
+     Project (Students Survey)
 
-CRSV FINANCE PRIVATE LIMTED
+     Problem Statements - In United States, there are many stores in which a survey was conducted based on students i.e. How much they are spending on different kind of purchases like Video games, Indoor games, Toys, Books, Gadgets etc. In the data set (Student Survey), Store setting is the column that explains the Type of location in which the store is present. By using data set (Student Survey), try to extract the meaningful Insights.
 
-"Problem Statements: Company wants to know why people are not borrowing too much home loan ,and how could we Overcome this problem Based Upon our Database."
+     Industry Type – Retail Store
 
-Sample Questions
+     Data set - Student survey
+     
 
-1.  Compare the Desire loan amount and property area along with Applicant Income 
-2.  Which type Of people are borrowing more loan business or salaried
-3.  Who Borrowed more Men or Women And their Credit History
-4.  Share a list of all customer id who are completed their documents And his PROPERTY AREA ALONG AND THIER gender  CATEGORY ALSO
-5. Share a property area which score is not good.
-   
+      Create a Power BI Report:
+      1.	Tabular Visualization - Format the total amount of purchase (TAP) based on ‘Store location’ and ‘Store setting’: -(Notes:-colors can be different but not same)
 
-Project 2 VRINDA STORE SALES PROJECT
-Objective
+•	If 0<TAP<35000, then records should be in red color
+•	If 35000<=TAP<60000, then records should be in yellow color
+•	If TAP>=60000, then records should be in blue color
 
-Vrinda store wants  to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
+2. Matrix Visualization – Create Matrix Visualization to show the amount spent on Outdoor sports across different ages and ‘Store setting’. Do the color formatting for the amount spent in total outdoor sports.
+
+3. Funnel chart – Create a Funnel chart to show Total amount of purchase by ‘Store setting’. Show the data labels as Percentage of First.
+4. Pie chart – Show the total amount of purchase by different ‘Store location’ for Suburban ‘Store setting’
+5.  Donut chart for total amount of purchases by ‘Store location’   
 
 
-Sample Questions
+     
 
-1. Compare the sales and orders using single chart
-2. Which month got the highest sales and orders?
-3. What are different order status in 2022?
-4. What are different order status in 2022?
-5. List top 10 states contributing to the sales?
-6. Relation between age and gender based on number 
-7. Which channel is contributing to maximum sales ?
-8. Highest selling category? etc.
 
 
